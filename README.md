@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marbenmb&label=Profile%20views&color=0e75b6&style=flat" alt="marbenmb" /> </p>
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **C and C++ low level programing**
 - 💻📚 I am currently learning software engineering at [1337fil](https://1337.ma/)
 - 📫 How to reach me **marouanebenbajja@gmail.com**
 
