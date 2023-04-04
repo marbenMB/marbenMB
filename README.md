@@ -13,7 +13,7 @@
 
 <p align="center"><a href="https://github.com/marbenMB"><img src="https://badge42.vercel.app/api/v2/cl2makpuv001109jnkfjm04up/stats?cursusId=21&coalitionId=74" alt="mbenbajj's 42 stats" /></a></p>
 <br/>
-<p align="left"><a href="https://github.com/marbenMB?tab=repositories">
+<p align="left" display="block"><a href="https://github.com/marbenMB?tab=repositories">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=marbenMB&line_height=40&show_icons=true&theme=dark">
  </a></p>
 
