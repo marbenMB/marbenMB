@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marbenmb&label=Profile%20views&color=0e75b6&style=flat" alt="marbenmb" /> </p>
 
-- 🌱 I’m currently learning **C and C++ low level programing**
-- 💻📚 I am currently learning software engineering at [1337fil](https://1337.ma/)
+- 🌱 I’m currently a Software Engineer Student at [1337fil](https://1337.ma/).**
+- 💻📚 I am currently learning Docker and Web Development.
 - 📫 How to reach me **marouanebenbajja@gmail.com**
 
 <h3 align="left">42 mbenbajj's stats :</h3>
